@@ -85,7 +85,7 @@ We have also fitted the sensors to the Michelangelo prosthetic hand, the TIAGo r
 
 ## Collaborations
 
-IIT Rehab Lab (Genoa) · University of Genoa · University of Bologna · INAIL (Bologna) · Aalborg University · Ospedale San Martino (Genoa) · JOANNEUM RESEARCH · OT Bioelettronica · Tecnalia
+IIT Rehab Lab (Genoa) · University of Bologna · INAIL (Bologna) · Aalborg University · Ospedale San Martino (Genoa) · JOANNEUM RESEARCH · OT Bioelettronica · Tecnalia
 
 EU projects: INTELLIMAN, TACTILITY.
 
