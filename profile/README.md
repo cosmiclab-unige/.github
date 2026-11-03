@@ -69,7 +69,7 @@ Raw tactile signals from our sensing systems, released with the papers that use 
 | [sie2024-FPGA-CRNN](https://github.com/cosmiclab-unige/sie2024-FPGA-CRNN) | CRNN for tactile texture classification, synthesised for FPGA with hls4ml |
 | [Neuromorphic_ROS](https://github.com/cosmiclab-unige/Neuromorphic_ROS) | ROS Noetic Docker environment for the neuromorphic tactile experiments |
 | [3-Class-Pinch-Pins](https://github.com/cosmiclab-unige/3-Class-Pinch-Pins) | Pinch classification with a 1D-CNN on IMU data |
-| [interface-boards-otbio](https://github.com/cosmiclab-unige/interface-boards-otbio) | Schematics, firmware and C++ host code for the interface boards |
+| [gamma-interface](https://github.com/cosmiclab-unige/gamma-interface) | Schematics, firmware and C++ host code for the gamma interface |
 
 ## Where our sensors are used
 
