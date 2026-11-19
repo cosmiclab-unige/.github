@@ -19,16 +19,12 @@ We build artificial tactile sensing systems: flexible piezoelectric skins, the e
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" width="100%" valign="top">
       <img src="img/eskin.jpg" alt="Flexible PVDF sensor patches shaped for fingertips, fingers and palm" width="100%">
       <h3>Piezoelectric e-skin</h3>
       <p>Screen-printed P(VDF-TrFE) sensors on flexible substrates, shaped for fingertips, fingers and palm and embedded in soft silicone. They respond to time-varying contact forces from below 1 Hz to 1 kHz.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="img/electronics.jpg" alt="Interface electronics board with an STM32 microcontroller and flat-cable connectors" width="100%">
-      <h3>Embedded interface electronics</h3>
-      <p>Compact boards that digitise the sensor charge and process it on an STM32 microcontroller: 64 channels at 2 kSa/s, 16 bit, streamed over USB-C.</p>
-      <br><sub><a href="https://github.com/cosmiclab-unige/gamma-interface">gamma-interface</a></sub>
+      <p>On the Hannes prosthetic hand, two sensorized finger caps enable real-time mechanical stress reconstruction and contact localization.</p>
+      <p><a href="https://intelliman-project.eu/media/UNIGE-Demo.mp4"><b>Watch the Hannes demo</b></a> · <a href="https://intelliman-project.eu/demonstrator/#uc1-real">IntelliMan demonstrator</a></p>
     </td>
   </tr>
   <tr>
@@ -39,10 +35,10 @@ We build artificial tactile sensing systems: flexible piezoelectric skins, the e
       <br><sub><a href="https://github.com/cosmiclab-unige/Force_recontruction_algorithm">Force reconstruction</a> · <a href="https://github.com/cosmiclab-unige/sie2024-FPGA-CRNN">FPGA CRNN</a> · <a href="https://github.com/cosmiclab-unige/hardware-aware-nas-imu">HW-aware NAS</a></sub>
     </td>
     <td width="50%" valign="top">
-      <img src="img/hannes.jpg" alt="Hannes prosthetic hand with sensorized fingertips" width="100%">
-      <h3>Sensory feedback and prosthetics</h3>
-      <p>Tactile sensing on prosthetic hands, with electrotactile feedback to the user, teleoperation and rehabilitation.</p>
-      <br><sub><a href="https://github.com/cosmiclab-unige/Tactile-Sensing-Experimental-Videos">Experiment videos</a></sub>
+      <img src="img/electronics.jpg" alt="Interface electronics board with an STM32 microcontroller and flat-cable connectors" width="100%">
+      <h3>Embedded interface electronics</h3>
+      <p>Compact boards that digitise the sensor charge and process it on an STM32 microcontroller: 64 channels at 2 kSa/s, 16 bit, streamed over USB-C.</p>
+      <br><sub><a href="https://github.com/cosmiclab-unige/gamma-interface">gamma-interface</a></sub>
     </td>
   </tr>
 </table>
@@ -58,14 +54,6 @@ We build artificial tactile sensing systems: flexible piezoelectric skins, the e
 </table>
 
 We have also fitted the sensors to the Michelangelo prosthetic hand, the TIAGo robot gripper and a Baxter gripper.
-
-### Hannes hand: real-time tactile sensing
-
-[![Watch the Hannes tactile sensing demo](img/hannes-grasp.jpg)](https://intelliman-project.eu/media/UNIGE-Demo.mp4)
-
-Two sensorized finger caps on the Hannes prosthetic hand provide tactile signals for real-time mechanical stress reconstruction. The demo shows the reconstructed stress map and contact location in a live graphical interface.
-
-**[Watch the video](https://intelliman-project.eu/media/UNIGE-Demo.mp4)** · [IntelliMan demonstrator](https://intelliman-project.eu/demonstrator/#uc1-real)
 
 ## Datasets and papers
 
