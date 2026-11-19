@@ -20,7 +20,7 @@ We build artificial tactile sensing systems: flexible piezoelectric skins, the e
 <table>
   <tr>
     <td colspan="2" width="100%" valign="top">
-      <img src="img/eskin.jpg" alt="Flexible PVDF sensor patches shaped for fingertips, fingers and palm" width="100%">
+      <img src="img/eskin-enhanced.png" alt="Flexible PVDF sensor patches shaped for fingertips, fingers and palm" width="100%">
       <h3>Piezoelectric e-skin</h3>
       <p>Screen-printed P(VDF-TrFE) sensors on flexible substrates, shaped for fingertips, fingers and palm and embedded in soft silicone. They respond to time-varying contact forces from below 1 Hz to 1 kHz.</p>
       <p>On the Hannes prosthetic hand, two sensorized finger caps enable real-time mechanical stress reconstruction and contact localization.</p>
