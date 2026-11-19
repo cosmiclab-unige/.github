@@ -59,6 +59,14 @@ We build artificial tactile sensing systems: flexible piezoelectric skins, the e
 
 We have also fitted the sensors to the Michelangelo prosthetic hand, the TIAGo robot gripper and a Baxter gripper.
 
+### Hannes hand: real-time tactile sensing
+
+[![Watch the Hannes tactile sensing demo](img/hannes-grasp.jpg)](https://intelliman-project.eu/media/UNIGE-Demo.mp4)
+
+Two sensorized finger caps on the Hannes prosthetic hand provide tactile signals for real-time mechanical stress reconstruction. The demo shows the reconstructed stress map and contact location in a live graphical interface.
+
+**[Watch the video](https://intelliman-project.eu/media/UNIGE-Demo.mp4)** · [IntelliMan demonstrator](https://intelliman-project.eu/demonstrator/#uc1-real)
+
 ## Datasets and papers
 
 Tactile signals and simulation data released with our papers, newest first. Each dataset link opens its Zenodo record, and each DOI opens the paper on the publisher's website.
